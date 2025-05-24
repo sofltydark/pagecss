@@ -1,0 +1,24 @@
+    .middle {text-align: center;}
+    h1.firsttitle{color: rgb(255, 2, 2); font-size: 12px;}
+
+    .supertitle{font-size:50px}
+    
+    #firsttitle{font-size:90px; color: blue;}
+    p{background-color: red;}
+    p{background-color:aquamarine}
+    p{text-align: center;}
+    .mylist li{color: rgb(170, 126, 126);}
+
+    body{
+        background-image: url(book1.jpg);
+
+        /* testing background-attachment: fixed; */
+    }
+
+    .box{
+        margin: 10px;
+        padding: 20px;
+        border: 4px solid rgb(255, 0, 0);
+        width: fit-content; 
+        background-color: white;
+    }
